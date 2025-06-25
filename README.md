@@ -2,7 +2,7 @@
 What Is Flappy Bird?
 Flappy Bird is a side-scrolling mobile game where players control a tiny, pixelated bird trying to fly between pairs of green pipes without touching them. The controls are incredibly simple: tap the screen to make the bird flap upward. That’s it. And yet, keeping the bird in the air — and alive — is far more difficult than it sounds.
 
-Created by Vietnamese developer Dong Nguyen under his game studio. GEARS, [Flappy Bird] (https://www.tycoonstory.com/why-was-flappy-bird-taken-down/) was released in 2013. It was just one of many indie games on the app stores, but in early 2014, it exploded in popularity.
+Created by Vietnamese developer Dong Nguyen under his game studio. GEARS, # [Flappy Bird] (https://www.tycoonstory.com/why-was-flappy-bird-taken-down/) was released in 2013. It was just one of many indie games on the app stores, but in early 2014, it exploded in popularity.
 
 Why Did Flappy Bird Go Viral?
 
