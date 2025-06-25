@@ -19,12 +19,14 @@ Word of mouth: It became a viral sensation without expensive marketing — users
 In just a few weeks, it topped the App Store and Google Play charts, gaining millions of downloads.
 
 The Controversy & Sudden Shutdown
+
 In February 2014, at the peak of its fame, Nguyen removed Flappy Bird from the app stores. He stated that the game’s addictive nature was causing people more stress than fun — and he didn’t want that on his conscience.
 
 Phones that still had Flappy Bird installed suddenly became collector’s items, selling for hundreds or even thousands of dollars online.
 
-**The Legacy of Flappy Bird
-**Though it was pulled from the stores, Flappy Bird left a huge legacy:
+The Legacy of Flappy Bird
+
+Though it was pulled from the stores, Flappy Bird left a huge legacy:
 
 It inspired countless clones and spin-offs.
 
@@ -35,6 +37,7 @@ It proved that even a one-person indie developer could shake up the mobile gamin
 To this day, Flappy Bird is remembered not just as a game, but as a cultural phenomenon — the little bird that flew too high, too fast.
 
 Final Thoughts
+
 Flappy Bird was more than just a game; it was a moment in internet history. Its simplicity, challenge, and viral spread showed the unpredictable power of mobile gaming culture. Whether you loved it or hated it, one thing is certain: Flappy Bird flapped its way into gaming legend.
 
 
