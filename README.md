@@ -23,8 +23,8 @@ In February 2014, at the peak of its fame, Nguyen removed Flappy Bird from the a
 
 Phones that still had Flappy Bird installed suddenly became collector’s items, selling for hundreds or even thousands of dollars online.
 
-The Legacy of Flappy Bird
-Though it was pulled from the stores, Flappy Bird left a huge legacy:
+**The Legacy of Flappy Bird
+**Though it was pulled from the stores, Flappy Bird left a huge legacy:
 
 It inspired countless clones and spin-offs.
 
@@ -37,6 +37,5 @@ To this day, Flappy Bird is remembered not just as a game, but as a cultural phe
 Final Thoughts
 Flappy Bird was more than just a game; it was a moment in internet history. Its simplicity, challenge, and viral spread showed the unpredictable power of mobile gaming culture. Whether you loved it or hated it, one thing is certain: Flappy Bird flapped its way into gaming legend.
 
-Would you like me to turn this into a longer post, or add things like SEO keywords, a call-to-action, or images?
 
  
